@@ -1,2 +1,3 @@
 本项目主要用来学习git的知识。
 采用边学边记录的方式，说明文件也会随着知识内容的更新而更新。
+将git的默认编辑器设置为sublime后，如果使用git commit命令，则会自动打开sublime，填入commit的说明，然后关闭sublime，则git commit执行完成。
