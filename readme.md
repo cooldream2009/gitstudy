@@ -12,3 +12,5 @@
 再想远程仓库push一下，输入用户名密码，这时候，用户名密码就会被记录下来保存，以后再push的时候就不用输入用户名密码验证了。
 
 也可以直接在C:/Users/username目录（username为计算机用户名），新建一个文件.git-credentials，文件内容就一行文字，为https:{username}:{password}@github.com，username和password对应自己的github用户名密码。然后在命令行输入git config --global credential.helper store。
+
+分支内容。
