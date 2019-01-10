@@ -2,3 +2,4 @@
 采用边学边记录的方式，说明文件也会随着知识内容的更新而更新。
 将git的默认编辑器设置为sublime后，如果使用git commit命令，则会自动打开sublime，填入commit的说明，然后关闭sublime，则git commit执行完成。注意，如果一开始sublime是打开的状态，或者sublime没有关闭，都不会完成提交的动作。
 设置github为远程仓库，比如https://github.com/cooldream2009/gitstudy，需要先在github上面新建一个空的gitstudy仓库，然后再使用git命令将本地仓库push到gitstudy上。如果再github上创建仓库的时候，初始化了仓库，则需要先将仓库pull到本地，然后修改，再进行push。
+解决每次都输入用户名密码的问题。
